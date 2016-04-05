@@ -7,6 +7,6 @@ Awareness displays how long you've been using your computer without a break in t
 
 To checkout,
 
-    $ git clone git@github.com:futureproof/awareness.git
+    $ git clone git@github.com:kelegorm/awareness.git
     $ cd awareness
     $ git submodule init && git submodule update
